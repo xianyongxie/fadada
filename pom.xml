@@ -75,6 +75,17 @@
             <artifactId>bcprov-jdk15on</artifactId>
             <version>1.60</version>
         </dependency>
+        <dependency>
+            <groupId>org.icepdf.os</groupId>
+            <artifactId>icepdf-core</artifactId>
+            <version>6.2.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpmime</artifactId>
+            <version>4.5.10</version>
+        </dependency>
+
 
 
 
